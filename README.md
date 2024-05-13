@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed on your system:
    - If you haven't already, clone the repository containing your Terraform configuration files to your local machine. You can do this using Git by running:
      
      git clone <repository_url>
-     ```
+     
      Replace `<repository_url>` with the URL of your Git repository.
 
 2. **Open Project in VS Code**: 
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed on your system:
    - If you haven't added a remote repository, add it once by running:
    
      git remote add origin <repository_url>
-     ```
+  
    - Push your changes to the remote repository:
      
      git push -u origin main
