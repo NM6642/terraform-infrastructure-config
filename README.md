@@ -1,11 +1,15 @@
 This guide outlines the steps to work with Terraform configuration files (.tf) in Visual Studio Code (VS Code), write an AWS EC2 instance configuration, and push your changes to a remote Git repository.
 
 # Prerequisites
+
 Before you begin, ensure you have the following installed on your system:
 
-1.Visual Studio Code
-2.Terraform
-3.Git
+1. **Visual Studio Code**
+
+2. **Terraform**
+
+3. **Git**
+
 # Steps
 1.Clone Repository: If you haven't already, clone the repository containing your Terraform configuration files to your local machine. You can do this using Git by running:
 git clone <repository_url>
